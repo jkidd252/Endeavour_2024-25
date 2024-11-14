@@ -1,4 +1,4 @@
-# CanSat Mach 25 Competition
+# 2024-25 Endeavour Rockets Payload
 
 Welcome to the CanSat project repository for the Mach 25 Competition!
 
@@ -20,12 +20,12 @@ This repository contains the codebase for the CanSat being flown at the Mach 25 
 
 ## Usage
 
-Payload peeps, pls keep all your code here and in the relevant folders! 
+Payload peeps, please keep all your code here and in the relevant folders! 
+
+**This includes all initial testing and (please) some documentation on how you did it all!!**
 
 ## Contributing
 
 We welcome contributions!
-
----
 
 Happy coding!
