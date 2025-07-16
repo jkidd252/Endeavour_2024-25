@@ -1,5 +1,4 @@
-# QuantumComputing_2025
-Group 5 - Code for 'Quantum Computing' project 2025
+# Piezoelectric Machine Learning on Teensy 4.1
 
 ## ℹ️ Overview
 
